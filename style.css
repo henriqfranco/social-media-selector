@@ -125,17 +125,16 @@ main{
     padding: 0.5rem;
     border-radius: 0.7rem;
     cursor: pointer;
-    transition: 0.3s;
 }
 
 .opener img{
     width: 2rem;
-    transition: 0.3s;
+    transition: 0.2s;
 }
 
 .rotated{
     transform: rotate(180deg);
-    transition: 0.3s;
+    transition: 0.2s;
 }
 
 .social-medias{
